@@ -5,7 +5,7 @@
 
  ____
 
-Challenge:
+## Challenge:
 
 Real-time Personalized and Intelligent Financial Advisory
 
@@ -15,7 +15,7 @@ Help OP reinvent how support is offered to customers in managing their finances 
 
   ____
 
-  Sollution:
+## Sollution:
 
  ![alt text](https://github.com/Litvinovis/Junction-2020/blob/main/main.png)
 
