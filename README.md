@@ -20,8 +20,8 @@ The product includes a banking application with data analysis using the system [
 
 ### [You can touch our demo app here](https://framer.com/share/3WiZI8ZBi75TqPQXs6a2/MZG3tFEcd?fullscreen=1&highlights=0)
 
-### Video presentation:
+### <p align=center> Video presentation: </p>
 
 [![Watch the video](https://github.com/Litvinovis/Junction-2020/blob/main/youtube.jpg)](https://youtu.be/C6ciRk_gStY)
 
-[Links on our project on junction website](https://app.hackjunction.com/projects/junction-2020-connected/view/5fa59259f8d8c9004acad8ab)
+### [Links on our project on junction website](https://app.hackjunction.com/projects/junction-2020-connected/view/5fa59259f8d8c9004acad8ab)
