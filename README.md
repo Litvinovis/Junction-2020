@@ -37,4 +37,4 @@ https://framer.com/share/3WiZI8ZBi75TqPQXs6a2/MZG3tFEcd?fullscreen=1&highlights=
 
 Video presentation:
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/C6ciRk_gStY)
+[![Watch the video](https://github.com/Litvinovis/Junction-2020/blob/main/youtube.jpg)](https://youtu.be/C6ciRk_gStY)
