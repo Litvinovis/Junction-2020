@@ -16,7 +16,7 @@ Help OP reinvent how support is offered to customers in managing their finances 
 
 Our product is a system of a personal assistant who, based on a large amount of impersonal data on expenses, gives personal recommendations and advice. We are confident that greater user awareness will motivate them to handle finances carefully and provide more opportunities for development growth.
 
-The product includes a banking application with data analysis using the https://aito.ai/rpa/ system, a chat bot that answers some user questions, taking into account his personal data and spending, as well as personalized advice on financial literacy and management.
+The product includes a banking application with data analysis using the system [aito system](https://aito.ai/rpa/), a chat bot that answers some user questions, taking into account his personal data and spending, as well as personalized advice on financial literacy and management.
 
 You can touch our demo here:
 
