@@ -2,7 +2,7 @@
 
  ![alt text](https://i.ytimg.com/vi/_ZaVpSYqxQg/maxresdefault.jpg)
 
-## Challenge:
+## <p align=center> Challenge: </p>
 
 Real-time Personalized and Intelligent Financial Advisory
 
@@ -10,7 +10,7 @@ Help OP reinvent how support is offered to customers in managing their finances 
 
  ![alt text](https://github.com/Litvinovis/Junction-2020/blob/main/Challenge.jpg)
 
-## Sollution:
+## <p align=center> Sollution: </p>
 
  ![alt text](https://github.com/Litvinovis/Junction-2020/blob/main/main.png)
 
@@ -18,9 +18,9 @@ Our product is a system of a personal assistant who, based on a large amount of 
 
 The product includes a banking application with data analysis using the system [aito system](https://aito.ai/rpa/), a chat bot that answers some user questions, taking into account his personal data and spending, as well as personalized advice on financial literacy and management.
 
-[You can touch our demo app here](https://framer.com/share/3WiZI8ZBi75TqPQXs6a2/MZG3tFEcd?fullscreen=1&highlights=0)
+### [You can touch our demo app here](https://framer.com/share/3WiZI8ZBi75TqPQXs6a2/MZG3tFEcd?fullscreen=1&highlights=0)
 
-Video presentation:
+### Video presentation:
 
 [![Watch the video](https://github.com/Litvinovis/Junction-2020/blob/main/youtube.jpg)](https://youtu.be/C6ciRk_gStY)
 
