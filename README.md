@@ -1,4 +1,4 @@
-# Junction 2020 project
+# <p align=center> Junction 2020 project </p>
 
  ![alt text](https://i.ytimg.com/vi/_ZaVpSYqxQg/maxresdefault.jpg)
 
@@ -18,8 +18,10 @@ Our product is a system of a personal assistant who, based on a large amount of 
 
 The product includes a banking application with data analysis using the system [aito system](https://aito.ai/rpa/), a chat bot that answers some user questions, taking into account his personal data and spending, as well as personalized advice on financial literacy and management.
 
-[You can touch our demo here](https://framer.com/share/3WiZI8ZBi75TqPQXs6a2/MZG3tFEcd?fullscreen=1&highlights=0)
+[You can touch our demo app here](https://framer.com/share/3WiZI8ZBi75TqPQXs6a2/MZG3tFEcd?fullscreen=1&highlights=0)
 
 Video presentation:
 
 [![Watch the video](https://github.com/Litvinovis/Junction-2020/blob/main/youtube.jpg)](https://youtu.be/C6ciRk_gStY)
+
+[Links on our project on junction website](https://app.hackjunction.com/projects/junction-2020-connected/view/5fa59259f8d8c9004acad8ab)
